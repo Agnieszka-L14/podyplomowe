@@ -1,0 +1,1 @@
+Przykladowe zadanie do laboratorium
